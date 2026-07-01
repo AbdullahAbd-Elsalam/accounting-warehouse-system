@@ -113,8 +113,8 @@ Relationships:
 
 ## Use Case Diagram
 ## Sequence Diagram
-![Use Case Diagram]
-![Sequence Diagram](docs/use-case-&&-sequence diagrarm.png)
+![Use Case Diagram](docs/use-case-&&-sequence diagrarm.png)
+    
 
 ---
  
