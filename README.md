@@ -103,38 +103,23 @@ Relationships:
 * One Invoice → Many Invoice Items
 
 ---
-
 # System Design
 
 ## Class Diagram
 
-> Add the image here.
-
-```text
-docs/class-diagram.png
-```
+![Class Diagram](docs/class-diagram.png)
 
 ---
 
 ## Use Case Diagram
 
-> Add the image here.
-
-```text
-docs/use-case-diagram.png
-```
+![Use Case Diagram](docs/use-case-diagram.png)
 
 ---
 
 ## Sequence Diagram
 
-> Add the image here.
-
-```text
-docs/sequence-create-invoice.png
-```
-
----
+![Sequence Diagram](docs/sequence-create-invoice.png)
 
 # Business Workflow
 
@@ -253,3 +238,4 @@ This project is continuously evolving, and new modules will be added in future r
 Backend Developer | Java | Spring Boot
 
 GitHub: https://github.com/AbdullahAbd-Elsalam
+✉️ Abdullahhamada100@gmail.com
