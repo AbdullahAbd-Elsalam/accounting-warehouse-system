@@ -112,15 +112,12 @@ Relationships:
 ---
 
 ## Use Case Diagram
-
-![Use Case Diagram](docs/use-case-diagram.png)
+## Sequence Diagram
+![Use Case Diagram]
+![Sequence Diagram](docs/use-case-&&-sequence diagrarm.png)
 
 ---
-
-## Sequence Diagram
-
-![Sequence Diagram](docs/sequence-create-invoice.png)
-
+ 
 # Business Workflow
 
 The current business workflow follows the accounting process used in construction companies.
